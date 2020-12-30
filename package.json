@@ -1,0 +1,22 @@
+{
+  "name": "newgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdavonta/newgame.git"
+  },
+  "author": "DaVonta Williamson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdavonta/newgame/issues"
+  },
+  "homepage": "https://github.com/wdavonta/newgame#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
